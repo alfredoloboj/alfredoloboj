@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Banner LED Neón Gamer / Programador -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,18,25&height=180&section=header&text=ALFREDO%20LOBO&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=PLAYER%201%20|%20SOFTWARE%20DEVELOPER&descSize=20&descColor=ff007f" />
+<!-- Banner LED Neón Gamer / Programador con solo tu nombre -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,18,25&height=180&section=header&text=ALFREDO%20LOBO&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=50" />
+
+---
 
 ### 🛠️ LEVEL UP YOUR CODE 🚀
 <!-- Insignias / Stats Gamer -->
