@@ -1,9 +1,9 @@
 <div align="center">
 
-# ALFREDO LOBO 
+<!-- Banner LED Neón Gamer / Programador -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,18,25&height=180&section=header&text=ALFREDO%20LOBO&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=PLAYER%201%20|%20SOFTWARE%20DEVELOPER&descSize=20&descColor=ff007f" />
 
----
-
+### 🛠️ LEVEL UP YOUR CODE 🚀
 <!-- Insignias / Stats Gamer -->
 [![Python Essential 1](https://img.shields.io/badge/CERTIFICATION-Python_Essential_1-green?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Current Quest](https://img.shields.io/badge/ACTIVE_QUEST-PANAROOTS-purple?style=for-the-badge&logo=github)](https://github.com)
