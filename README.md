@@ -15,30 +15,30 @@
 
 ---
 
-## 🏆 CURRENT QUEST (PROYECTO ACTUAL)
+##  CURRENT QUEST (PROYECTO ACTUAL)
 
-> 🌴 **PANAROOTS**  
+> **PANAROOTS**  
 > *Proyecto que conecta a Panamá con el mundo.*
 
 ---
 
 ## ⚔️ HABILIDADES TÉCNICAS (TECH SKILLS)
 
-* 🐍 **Dominio de lenguajes de programación**
-* 🧩 **Estructuras de datos y algoritmos**
-* 🐙 **Control de versiones con Git**
-* 🗄️ **Gestión de bases de datos**
-* 🧪 **Pruebas y depuración de código**
+* **Dominio de lenguajes de programación**
+* **Estructuras de datos y algoritmos**
+* **Control de versiones con Git**
+* **Gestión de bases de datos**
+* **Pruebas y depuración de código**
 
 ---
 
 ## 🛡️ HABILIDADES BLANDAS (PASSIVE SKILL TREE)
 
-* 🧠 **Resolución de problemas**
-* 📖 **Aprendizaje autónomo**
-* 🤝 **Trabajo en equipo**
-* 💬 **Comunicación asertiva**
-* 🛡️ **Tolerancia a la frustración**
+* **Resolución de problemas**
+* **Aprendizaje autónomo**
+* **Trabajo en equipo**
+* **Comunicación asertiva**
+* **Tolerancia a la frustración**
 
 ---
 
