@@ -45,6 +45,4 @@
 
 <div align="center">
 
-### 🕹️ GAME OVER? NEVER. KEEP CODING! 🕹️
-
 </div>
