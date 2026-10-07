@@ -3,7 +3,6 @@
 <div align="center">
 
 # ALFREDO LOBO 
-### 🛠️ SOFTWARE DEVELOPER | LEVEL UP YOUR CODE 🚀
 
 ---
 
