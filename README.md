@@ -1,96 +1,64 @@
 # Alfredo-Lobo
 
-Claro. Aquí tienes todo en inglés, manteniendo el estilo gamer azul y listo para colocar como `README.md` en GitHub.
+ █████╗ ██╗     ███████╗██████╗ ██████╗  ██████╗     ██╗      ██████╗ ██████╗  ██████╗ 
+██╔══██╗██║     ██╔════╝██╔══██╗██╔══██╗██╔═══██╗    ██║     ██╔═══██╗██╔══██╗██╔═══██╗
+███████║██║     █████╗  ██████╔╝██████╔╝██║   ██║    ██║     ██║   ██║██████╔╝██║   ██║
+██╔══██║██║     ██╔══╝  ██╔═══╝ ██╔══██╗██║   ██║    ██║     ██║   ██║██╔══██╗██║   ██║
+██║  ██║███████╗██║     ██║     ██║  ██║╚██████╔╝    ███████╗╚██████╔╝██████╔╝╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝ 
 
-:::writing{variant="document" id="58321" title="Alfredo Lobo — GitHub README"}
 
-# 🎮 ALFREDO LOBO
+⚡ [ SYSTEM READY: USER_ALFREDO_LOBO ] ⚡
 
-\<div align="center"\>
+Joven entusiasta de la programación, código y tecnología
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                     ⚡ ALFREDO LOBO ⚡                       ║
-║                                                              ║
-║                  👾 DEVELOPER IN PROGRESS 👾                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+📂 root/profile/about_me.log
 
-### 🔵 Young Developer | Programmer | Project Creator
+{
+  "usuario": "Alfredo Lobo",
+  "etapa": "Joven Desarrollador",
+  "status": "Online",
+  "mision": "Explorar el mundo del código y construir soluciones digitales con alto rendimiento."
+}
 
-\</div\>
 
----
+🏆 sys/certifications/
 
-## 👤 About Me
+> python3 --version
+Python Essential 1 [Verified & Certified]
 
-**My Name:** Alfredo Lobo
 
-**Age:** Young
+🎮 projects/PANAROOTS/
 
-I am interested in programming, technology, and continuously learning new skills to turn ideas into real projects.
+project_name: "PANAROOTS"
+objective: "Proyecto que conecta Panamá con el mundo."
+status: "Active Development"
 
----
 
-## 🏆 Certification
+⚙️ skills/hard_skills.json
 
-### 🐍 Python Essential 1
+{
+  "lenguajes_programacion": "Fundamentos sólidos",
+  "logica_y_algoritmos": "Resolución algorítmica avanzada",
+  "estructuras_de_datos": "Optimización de almacenamiento",
+  "control_de_versiones": "Git (Version Control)",
+  "testing_y_debugging": "Detección y corrección de bugs",
+  "bases_de_datos": ["SQL", "NoSQL"],
+  "idioma": "Inglés técnico"
+}
 
-Python programming fundamentals and essential programming concepts.
 
----
+🧠 skills/soft_skills.json
 
-## 🚀 My Projects
+{
+  "resolucion_de_problemas": "Pensamiento analítico crítico",
+  "comunicacion_efectiva": "Claridad en transmisión de ideas",
+  "trabajo_en_equipo": "Sinergia y colaboración activa",
+  "adaptabilidad": "Aprendizaje continuo y ágil",
+  "atencion_al_detalle": "Cuidado milimétrico en ejecución",
+  "gestion_del_tiempo": "Optimización y priorización",
+  "diseno": "Sensibilidad visual orientada a experiencia"
+}
 
-### 🌎 PANAROOTS
 
-**A project that connects Panama with the world.**
-
-PANAROOTS is a project created with the idea of connecting Panama with the world through technology, ideas, people, and opportunities.
-
----
-
-# 💻 My Skills
-
-## 🔷 Technical Skills (Hard Skills)
-
-- 🐍 Programming Languages
-- 🧠 Programming Logic & Algorithms
-- 🗂️ Data Structures
-- 🔀 Version Control (Git)
-- 🐞 Debugging & Testing
-- 🗄️ Databases (SQL & NoSQL)
-- 🇺🇸 Technical English
-
----
-
-## 🔹 Soft Skills
-
-- 🧩 Problem Solving
-- 💬 Effective Communication
-- 🤝 Teamwork
-- 🔄 Adaptability & Continuous Learning
-- 🔍 Attention to Detail
-- ⏱️ Time Management
-
----
-
-\<div align="center"\>
-
-```
-╭──────────────────────────────────────────────╮
-│                                              │
-│              🎮 KEEP CODING 🎮               │
-│                                              │
-│        "Every line of code matters."         │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-### 🔵 ALFREDO LOBO 🔵
-
-\</div\> :::
-
-Si quieres, también puedo hacerlo **mucho más gamer**, con animaciones, banners azules, estadísticas de GitHub, badges de Python/Git y un diseño tipo **hacker/cyberpunk**.
+[STATUS: 200 OK] — Let's write some code together. 🚀
