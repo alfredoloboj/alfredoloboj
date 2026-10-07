@@ -3,7 +3,6 @@
 <div align="center">
 
 <!-- Banner / Encabezado Estilo Gamer -->
-# 🎮 <font color="#00E676">PLAYER 1: ALFREDO LOBO</font> 🎮
 
 ![Header Gamer](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=ALFREDO%20LOBO&fontSize=50&fontColor=fff&animation=twinkling)
 
