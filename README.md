@@ -1,5 +1,3 @@
-# Alfredo-Lobo
-
 <div align="center">
 
 # ALFREDO LOBO 
