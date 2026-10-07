@@ -6,10 +6,6 @@
 
 ![Header Gamer](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=ALFREDO%20LOBO&fontSize=50&fontColor=fff&animation=twinkling)
 
-`STATUS: LEVELING UP 🚀` | `CLASS: DEVELOPER` | `LOCATION: PANAMA 🇵🇦`
-
----
-
 </div>
 
 ## 🕹️ About Me / Sobre Mí
@@ -17,7 +13,7 @@
 ¡Hola, mundo! 👋 Soy **Alfredo Lobo**, un apasionado del código y la tecnología con mentalidad *gamer*. Me enfoco en construir proyectos de alto impacto que conecten a las personas.
 
 * 📜 **Certificación Actual:** `Python Essentials 1` 🐍
-* 🚀 **Proyecto Principal:** **`PANAROOTS`** — *Un proyecto diseñado para conectar a Panamá con el mundo entero.* 🌎🇵🇦
+* 🚀 **Proyecto Principal:** **`PANAROOTS`** — *Un proyecto diseñado para conectar a Panamá con el mundo entero.*
 
 ---
 
