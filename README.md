@@ -53,3 +53,9 @@
  [✔] Trabajo en equipo              +40% Sinergia de Escuadrón
  [✔] Comunicación asertiva         +30% Claridad en Chat
  [✔] Tolerancia a la frustración   +MAX Resistencia a Bugs
+
+__   _____  ____ _  ____   __  _____ ____    _____ _____    _   
+\ \ / /_ _|/ ___| |/ /\ \ / / | ____/ ___|  |  ___| ____|  / \  
+ \ V / | || |   | ' /  \ V /  |  _| \___ \  | |_  |  _|   / _ \ 
+  | |  | || |___| . \   | |   | |___ ___) | |  _| | |___ / ___ \
+  |_| |___|\____|_|\_\  |_|   |_____|____/  |_|   |_____/_/   \_\
